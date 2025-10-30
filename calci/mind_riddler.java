@@ -14,5 +14,6 @@ public class mind_riddler {
         System.out.println("Ternary Operator");
         int max = (a > b) ? a : b;
         System.out.println("Max value is: " + max);
+    
     }
 }
