@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseNumber {
+public class Reverse_numbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
@@ -17,5 +17,6 @@ public class ReverseNumber {
         System.out.println("Reversed number: " + reversed);
         
         sc.close();
+        
     }
 }
