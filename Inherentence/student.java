@@ -19,3 +19,4 @@ class student{
         c.ageN(20);
 }
 }
+                                                                                                                                         
