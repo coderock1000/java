@@ -1,11 +1,10 @@
-// Parent class
+
 class Wonder {
     void display() {
         System.out.println("Seven Wonders of the World");
     }
 }
 
-// Child classes
 class TajMahal extends Wonder {
     void display() {
         System.out.println("Taj Mahal - Agra, India");
