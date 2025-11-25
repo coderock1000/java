@@ -26,7 +26,7 @@ class Bike implements Vehicle {
         else if (gear == 3)
             speed = 60;
         else
-            speed = 80; // gear 4+
+            speed = 80; 
     }
 
     @Override
