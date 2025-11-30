@@ -66,8 +66,7 @@ public class InternHiring {
         this.tenthPercentage = tenthPercentage;
     }
 }
-
- class InvalidTenthPercentageException extends Exception {
+class InvalidTenthPercentageException extends Exception {
     public InvalidTenthPercentageException(String message) {
         super(message);
     }
