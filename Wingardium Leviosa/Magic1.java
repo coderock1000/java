@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Magic1 {
+public class Magic1 { 
     public static void main(String[] args) {
         ArrayList<String> animals = new ArrayList<>();
         animals.add("cat");
@@ -23,6 +23,8 @@ public class Magic1 {
         System.out.println("Updated Animals List: " + animals);
         animals.remove(2);
         System.out.println("After Removing Index 2: " + animals);
+        System.out.println("Accessing Element at Index 1: " + animals.get(1));
+        
 
     }
 }
